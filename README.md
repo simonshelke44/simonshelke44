@@ -24,4 +24,6 @@ Computer Science engineering student with an interest in Java, Data Structures, 
 ---
 [![](https://visitcount.itsvg.in/api?id=simonshelke44&icon=4&color=3)](https://visitcount.itsvg.in)
 
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
