@@ -12,6 +12,8 @@ Computer Science engineering student with an interest in Java, Data Structures, 
 ![](https://nirzak-streak-stats.vercel.app/?user=simonshelke44&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simonshelke44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://leetcard.jacoblin.cool/SimonShelke?ext=heatmap)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simonshelke44&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
@@ -24,6 +26,6 @@ Computer Science engineering student with an interest in Java, Data Structures, 
 ---
 [![](https://visitcount.itsvg.in/api?id=simonshelke44&icon=4&color=3)](https://visitcount.itsvg.in)
 
-![](https://leetcard.SimonShelke.cool/lapor?ext=heatmap)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
